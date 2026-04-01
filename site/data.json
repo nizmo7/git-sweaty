@@ -27332,6 +27332,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17919791456",
       "year": 2026
+    },
+    {
+      "date": "2026-03-31",
+      "hour": 19,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17932314370",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53776,6 +53785,15 @@
           "distance": 2599.8,
           "elevation_gain": 9.0,
           "moving_time": 2356.0
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "17932314370"
+          ],
+          "count": 1,
+          "distance": 2669.9,
+          "elevation_gain": 7.0,
+          "moving_time": 2440.0
         }
       },
       "WeightTraining": {
@@ -54061,7 +54079,7 @@
       }
     }
   },
-  "generated_at": "2026-03-31T16:09:34.161853+00:00",
+  "generated_at": "2026-04-01T16:09:23.531277+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/11052387",
   "repo": "nizmo7/git-sweaty",
