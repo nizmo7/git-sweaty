@@ -39622,5 +39622,31 @@
     "start_date_local": "2026-04-06T17:56:17Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 1976.9,
+    "elevation_gain": 4.0,
+    "id": "18020008132",
+    "moving_time": 1455.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-07T17:49:11Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 22737.6,
+    "elevation_gain": 112.0,
+    "id": "18021820793",
+    "moving_time": 2754.0,
+    "name": "Zwift - Pacer Group Ride with Bernie",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-07T21:35:13Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
