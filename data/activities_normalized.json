@@ -39960,5 +39960,31 @@
     "start_date_local": "2026-04-28T20:16:13Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18313432073",
+    "moving_time": 5755.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-29T17:36:21Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 2844.6,
+    "elevation_gain": 9.0,
+    "id": "18313795885",
+    "moving_time": 2397.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-29T19:35:28Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
