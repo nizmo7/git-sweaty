@@ -28187,6 +28187,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18831556770",
       "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18843132521",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 20,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18844782922",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53978,6 +53996,15 @@
           "distance": 2853.1,
           "elevation_gain": 10.0,
           "moving_time": 1039.0
+        },
+        "2026-06-08": {
+          "activity_ids": [
+            "18843132521"
+          ],
+          "count": 1,
+          "distance": 1352.6,
+          "elevation_gain": 0.0,
+          "moving_time": 647.0
         }
       },
       "VirtualRide": {
@@ -55148,6 +55175,15 @@
           "distance": 2800.3,
           "elevation_gain": 12.0,
           "moving_time": 2181.0
+        },
+        "2026-06-08": {
+          "activity_ids": [
+            "18844782922"
+          ],
+          "count": 1,
+          "distance": 2723.3,
+          "elevation_gain": 13.0,
+          "moving_time": 2358.0
         }
       },
       "WeightTraining": {
@@ -55757,7 +55793,7 @@
       }
     }
   },
-  "generated_at": "2026-06-08T17:59:37.768626+00:00",
+  "generated_at": "2026-06-09T17:26:39.348798+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/11052387",
   "repo": "nizmo7/git-sweaty",
