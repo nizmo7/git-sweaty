@@ -40753,5 +40753,31 @@
     "start_date_local": "2026-06-09T17:00:31Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18883840475",
+    "moving_time": 3048.0,
+    "name": "Hyrox Training",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-06-11T16:36:52Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 1990.3,
+    "elevation_gain": 2.0,
+    "id": "18884829038",
+    "moving_time": 1651.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-11T18:10:29Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
