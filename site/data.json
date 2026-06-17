@@ -28259,6 +28259,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18922868185",
       "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 16,
+      "name": "Hyrox Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18935572219",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 17,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18951035245",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -55899,11 +55917,29 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5071.0
+        },
+        "2026-06-15": {
+          "activity_ids": [
+            "18935572219"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3696.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18951035245"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4397.0
         }
       }
     }
   },
-  "generated_at": "2026-06-15T19:06:12.059087+00:00",
+  "generated_at": "2026-06-17T17:50:51.629932+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/11052387",
   "repo": "nizmo7/git-sweaty",
