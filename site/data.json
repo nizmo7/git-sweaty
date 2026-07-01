@@ -28367,6 +28367,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19116285989",
       "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 16,
+      "name": "Hyrox Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19129963446",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -56115,11 +56124,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3423.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19129963446"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3063.0
         }
       }
     }
   },
-  "generated_at": "2026-06-30T17:08:41.773726+00:00",
+  "generated_at": "2026-07-01T17:20:33.856913+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/11052387",
   "repo": "nizmo7/git-sweaty",
